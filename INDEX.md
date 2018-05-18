@@ -1,3 +1,0 @@
-# Nate Bone
-
-### Personal Site
