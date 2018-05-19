@@ -1,32 +1,13 @@
 ---
 layout: page
-title: Jekyll Theme - About - Massively
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
-sitemap:
-    priority: 0.7
-    lastmod: 2017-11-02
-    changefreq: weekly
+title: About
+permalink: /about/
 ---
-## About our Site
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
 
-Big page.
-Little content.
+You can find the source code for the Jekyll new theme at:
+[sleek](https://github.com/janczizikow/sleek)
 
-How shall I ever use this space?
-
-Stick around to find out.
-
-heck.
-
-### Content is Important
-<div class="box">
-  <p>
-  very big wow
-  </p>
-</div>
-
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
-
-Something something social media?
+You can find the source code for Jekyll at
+[jekyll](https://github.com/jekyll/jekyll)
