@@ -1,3 +1,11 @@
+
+Vinces gaming schedule.
+```
+✅ = Available
+❓ = On occasion, see below note.
+❌ = Not available, or very very rarely.
+```
+
 | Day of Week| Availability |
 |:-------------:|:-------------:|
 | Monday      | ❌ |
