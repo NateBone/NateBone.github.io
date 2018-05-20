@@ -1,7 +1,7 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+title:              BoneZone
+bio:                "Nate Bones Personal Site, not sure what I'm going to use this for, so I'm not sure why you are here..."
+description:        "Welcome to the BoneZone"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -31,19 +31,16 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   default
 
 # Social
-analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+twitter:            nathan_bone
+instagram:          nbone06
+github:             natebone
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+location:           Detroit, MI
+phone:              313-555-5555
+email:              nathana.bone@gmail.com
 
 # Gems
 gems:
