@@ -1,4 +1,3 @@
-# First Blog Post
 
 Big frickin' hecks
 

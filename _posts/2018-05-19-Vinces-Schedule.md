@@ -1,6 +1,3 @@
-
-### Vinces gaming schedule.
-
 ```
 ✅ = Available
 ❓ = On occasion, see below note.
